@@ -1,0 +1,2 @@
+PT.rar filter=lfs diff=lfs merge=lfs -text
+cofounder.rar filter=lfs diff=lfs merge=lfs -text
